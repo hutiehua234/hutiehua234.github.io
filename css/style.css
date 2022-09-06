@@ -1,3 +1,4 @@
+@import './custom'
 @-moz-keyframes spinAround {
   from {
     transform: rotate(0deg);
@@ -11677,8 +11678,3 @@ figure.highlight.foldable div.level-left {
     padding: 1.5rem 1rem;
   }
 }
-$gap ?= 64px
-$tablet ?= 1104px
-$desktop ?= 1400px
-$widescreen ?= 1600px
-$fullhd ?= 1920px
