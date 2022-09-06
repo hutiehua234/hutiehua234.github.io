@@ -1,4 +1,3 @@
-@import './custom'
 @-moz-keyframes spinAround {
   from {
     transform: rotate(0deg);
