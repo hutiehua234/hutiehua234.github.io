@@ -38,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://hutiehua234.github.io/2022/09/05/hello-world/</loc>
+    <loc>https://hutiehua234.github.io/2022/09/05/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(2)/</loc>
+    
+    <lastmod>2022-09-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hutiehua234.github.io/2022/09/05/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(3)/</loc>
     
     <lastmod>2022-09-05</lastmod>
     
@@ -56,16 +65,7 @@
   </url>
   
   <url>
-    <loc>https://hutiehua234.github.io/2022/09/05/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(2)/</loc>
-    
-    <lastmod>2022-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hutiehua234.github.io/2022/09/05/hello-world%20-%20%E5%89%AF%E6%9C%AC%20(3)/</loc>
+    <loc>https://hutiehua234.github.io/2022/09/05/hello-world/</loc>
     
     <lastmod>2022-09-05</lastmod>
     
